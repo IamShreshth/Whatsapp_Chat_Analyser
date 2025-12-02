@@ -6,6 +6,7 @@ A C program that analyzes a WhatsApp chat export (chat.txt) and shows:
 - Average message length per user
 - Most active hour of the day
 - Message count per hour
+
 Output Meaning:
 Messages - Total messages sent by each user
 
